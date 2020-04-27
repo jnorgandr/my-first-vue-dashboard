@@ -49,5 +49,6 @@ import ThemeSwitch from "@/components/ThemeSwitch";
 
 img {
   width: 50%;
+  margin-left: 100px;
 }
 </style>
