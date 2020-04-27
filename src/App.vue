@@ -5,6 +5,8 @@
 </template>
 
 <script>
+
+
 export default {
   name: "App",
   mounted() {
@@ -16,6 +18,10 @@ export default {
 </script>
 
 <style lang="scss">
+
+* {
+  transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
 
 body {
   background: $dark-blue;
